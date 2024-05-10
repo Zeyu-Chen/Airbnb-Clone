@@ -8,7 +8,10 @@
   "useTabs": false,
   "endOfLine": "lf",
   "arrowParens": "always",
-  "plugins": ["prettier-plugin-tailwindcss", "@ianvs/prettier-plugin-sort-imports"],
+  "plugins": [
+    "@ianvs/prettier-plugin-sort-imports",
+    "prettier-plugin-tailwindcss"
+  ],
   "importOrder": [
     "^@core/(.*)$",
     "",
