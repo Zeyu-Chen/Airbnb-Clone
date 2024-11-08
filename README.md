@@ -1,6 +1,15 @@
 # Airbnb Clone
 
-A full-stack Airbnb clone built with Next.js 13, React, Tailwind CSS, Prisma, MongoDB and NextAuth.
+[![Next.js](https://img.shields.io/badge/Next.js-13.2-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-5.6-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Prisma](https://img.shields.io/badge/Prisma-5.6-2D3748?logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![NextAuth](https://img.shields.io/badge/NextAuth-4.24-000000?logo=auth0&logoColor=white)](https://next-auth.js.org/)
+[![Zustand](https://img.shields.io/badge/Zustand-4.4-000000?logo=npm&logoColor=white)](https://github.com/pmndrs/zustand)
+
+A modern, full-stack Airbnb clone featuring real-time booking, interactive maps, and authentication. Built with the latest web technologies including Next.js 13 App Router, React Server Components, and MongoDB.
 
 ## Features
 
